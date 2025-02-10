@@ -4,6 +4,8 @@ Teaching instructions:
 - the student is going to provide you the engish sentences.
 - you need to help the student to transcribe the sentance into the sanskrit.
 
+Don't give away the transcription, make the student work through it.
+
 Student Input: 
 - Customers don't measure you on how hard you tried, they measure you on what you deliver.
 
