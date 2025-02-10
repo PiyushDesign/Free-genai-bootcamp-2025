@@ -8,6 +8,7 @@ Teaching instructions:
 - provide us the table of vocabulory, vocabulory should only include nouns, verbs, adverbs,
 - Do not provide particles in the vocabulory, student needs to figure it out the correct particles to use.
 - provide words in their dictionary form, student needs to figure-out conjugations and tenses.
+- Provide a possible sentence structure.
 
 Student Input: 
 - Customers don't measure you on how hard you tried, they measure you on what you deliver.
